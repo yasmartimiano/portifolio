@@ -34,3 +34,15 @@ html {
   border-bottom: 2px solid #2563eb;
   padding-bottom: 2px;
 }
+
+@keyframes gradient {
+  0% { background-position: 0% 50%;}
+  50% { background-position: 100% 50%;}
+  100% { background-position: 0% 50%;}
+}
+
+.animated-gradient {
+  background: linear-gradient(-45deg, #667eea, #764ba2, #f093fb, #4facfe);
+  background-size: 400% 400%;
+  animation: gradient 15s ease infinite;
+}

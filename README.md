@@ -1,9 +1,19 @@
 <h1 align="center"> Portfólio - Yasmin Martimiano 💻</h1
 
+<h4 align="center"><a href="https://portifolio-git-main-yasmartimianos-projects.vercel.app" target="_blank"> Acesse o projeto aqui</a></h4>
+
+<p align="center">
+  <img src="./assets/PortifolioTelaInicial.png" width="800" alt="Preview do portfólio" />
+</p>
+
+---
+
 ## 🌐 Sobre o projeto
 
 Este portfólio foi desenvolvido com o objetivo de apresentar quem eu sou como **Desenvolvedora de Software**, mostrando minhas **habilidades, ferramentas, tecnologias e projetos**.  
-O layout é **totalmente responsivo**, com um visual limpo, moderno e inspirado em tons suaves de roxo e azul.
+O layout é **totalmente responsivo**, com um visual limpo, moderno e inspirado em tons suaves de roxo e azul.  
+
+Este projeto está **em constante desenvolvimento**, pois estou sempre aprimorando minhas habilidades e adicionando novas seções e melhorias visuais.
 
 ---
 

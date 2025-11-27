@@ -2,6 +2,7 @@
 
 <h4 align="center"><a href="https://portifolio-git-main-yasmartimianos-projects.vercel.app" target="_blank"> Acesse o projeto aqui</a></h4>
 
+---
 <p align="center">
   <img src="./assets/PortifolioTelaInicial.png" width="800" alt="Preview do portfólio" />
 </p>
@@ -11,6 +12,7 @@
 ## 🌐 Sobre o projeto
 
 Este portfólio foi desenvolvido com o objetivo de apresentar quem eu sou como **Desenvolvedora de Software**, mostrando minhas **habilidades, ferramentas, tecnologias e projetos**.  
+
 O layout é **totalmente responsivo**, com um visual limpo, moderno e inspirado em tons suaves de roxo e azul.  
 
 Este projeto está **em constante desenvolvimento**, pois estou sempre aprimorando minhas habilidades e adicionando novas seções e melhorias visuais.
@@ -44,23 +46,8 @@ O site é dividido em seções simples e intuitivas:
 Durante o desenvolvimento deste portfólio, foram trabalhados conceitos como:
 
 + Estruturação **semântica** em HTML;  
-+ Uso do **Tailwind CSS** para estilização moderna e responsiva;  
-+ Efeitos de **hover, transições e gradientes suaves**;  
-+ Organização e boas práticas de **componentização e seções**;  
++ Uso do **Tailwind CSS** para estilização moderna e responsiva; 
 + Implementação de **layout mobile-first**.
-
----
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github.com/yasmartimiano.png" width="100px" style="border-radius: 50%" />
-    </td>
-    <td>
-      Desenvolvido com 💜 por <a href="https://github.com/yasmartimiano">Yasmin Martimiano</a>.
-    </td>
-  </tr>
-</table>
 
 ---
 
